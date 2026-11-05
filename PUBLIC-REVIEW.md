@@ -2,7 +2,7 @@
 
 Reviewed for owner-authorised publication on 5 November 2026.
 
-This repository explains sales reasoning and project progress. It is not an implementation guide.
+This repository explains sales reasoning, methodology, design trade-offs and project progress. It is not an implementation guide.
 
 - Only case-study Markdown and a Git ignore file are included.
 - No executable workflow exports, implementation code, detailed prompts, API payloads, credentials, account links, internal identifiers or real customer/prospect records are included.

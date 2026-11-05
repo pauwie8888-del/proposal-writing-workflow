@@ -43,6 +43,7 @@ AI summaries can omit scope exclusions; compare the deck with the reviewed notes
 
 ## Explore
 
+- [Design thinking and methodology](METHODOLOGY.md)
 - [High-level architecture](architecture.md)
 - [90-second demo script](demo-script.md)
 
