@@ -37,10 +37,6 @@ Live API integration tests with fictional data are recorded for both manual-note
 
 A recorded manual-input live test on 21 October 2026 produced seven slides in 12.254 seconds, with no unresolved placeholders. Transcript DOCX and PDF tests also completed through OpenAI and Google. The PDF test kept an unknown email blank and left discussed commercial terms unapproved. The generated manual-test draft was independently fetched from Drive during this portfolio review. Older execution records are no longer present in the queried local database; the dated verification files and surviving output provide the retained evidence.
 
-## Limitations and next steps
-
-AI summaries can omit scope exclusions; compare the deck with the reviewed notes before sharing. Exact excerpts establish that words occur in the transcript, not that the interpretation is correct. OCR, signature and automated delivery are not part of the verified flow. No email was sent in the recorded tests. Next: strengthen scope/exclusion review and test a wider range of transcripts.
-
 ## Explore
 
 - [Design thinking and methodology](METHODOLOGY.md)
